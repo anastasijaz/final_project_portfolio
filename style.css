@@ -1,12 +1,12 @@
 .main-page {
-  background-color: red;
+  background-color: #f5f6f2;
 }
 
 h1 {
-  color: green;
   font-family: "Playfair Display", serif;
   font-weight: 400;
   text-align: center;
+  color: #6d1919;
 }
 
 h2 {
