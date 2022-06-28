@@ -3,6 +3,7 @@ body {
 }
 
 h1 {
-  color: #6d1919;
+  color: green;
   font-family: "Playfair Display", serif;
+  font-weight: 400;
 }
