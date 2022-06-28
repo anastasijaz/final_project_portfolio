@@ -1,14 +1,16 @@
 body {
-  background-color: #f5f6f2;
+  background-color: red;
 }
 
 h1 {
   color: green;
   font-family: "Playfair Display", serif;
   font-weight: 400;
+  text-align: center;
 }
 
 h2 {
   color: red;
   font-family: "Playfair Display", serif;
+  text-align: center;
 }
