@@ -6,7 +6,7 @@ h1 {
   font-family: "Playfair Display", serif;
   font-weight: 400;
   text-align: center;
-  color: #6d1919;
+  color: #6d1919 !important;
 }
 
 h2 {
