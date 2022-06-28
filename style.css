@@ -7,3 +7,8 @@ h1 {
   font-family: "Playfair Display", serif;
   font-weight: 400;
 }
+
+h2 {
+  color: red;
+  font-family: "Playfair Display", serif;
+}
