@@ -47,3 +47,7 @@ h5 {
   justify-content: center;
   display: inline-block;
 }
+.linkedin-button {
+  size: 30px;
+  color: black;
+}
