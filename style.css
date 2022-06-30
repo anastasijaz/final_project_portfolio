@@ -24,4 +24,6 @@ h2 {
 }
 
 .mp-text {
+  font-family: var(--font);
+  text-align: center;
 }
