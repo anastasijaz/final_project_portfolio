@@ -39,8 +39,9 @@ button {
   color: #f5f6f2 !important;
   font-family: var(--font);
   background-color: #6d1919 !important;
-  border-radius: 20px;
+  border-radius: 20%;
   border-color: #6d1919;
   padding: 10px;
   align-items: center;
+  display: inline-block;
 }
