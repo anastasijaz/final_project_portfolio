@@ -36,10 +36,11 @@ h5 {
 }
 button {
   text-align: center;
-  color: var(--background-color-dark);
+  color: #f5f6f2 !important;
   font-family: var(--font);
   background-color: #6d1919 !important;
   border-radius: 20px;
   border-color: #6d1919;
-  padding: 20px;
+  padding: 10px;
+  align-items: center;
 }
