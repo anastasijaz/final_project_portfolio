@@ -8,6 +8,7 @@
 
 .main-page {
   background-color: #f5f6f2;
+  margin: 50px;
 }
 
 h1 {
@@ -15,6 +16,7 @@ h1 {
   font-weight: 400;
   text-align: center;
   color: #6d1919 !important;
+  padding: 20px;
 }
 
 h2 {
@@ -29,4 +31,12 @@ h4 {
 h5 {
   font-family: var(--font);
   text-align: center;
+}
+.hero-button {
+  text-align: center;
+  font-family: var(--font);
+  background-color: #6d1919 !important;
+  border-radius: 10px;
+  border-color: #6d1919;
+  padding: 20px;
 }
