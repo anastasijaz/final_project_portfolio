@@ -6,8 +6,8 @@
   --background-color-dark: #FoE7Da;
 }
 
-.body {
-  background-color: #FoE7Da !important;
+.main-page {
+  background-color: #f5f6f2;
 }
 
 h1 {
@@ -50,7 +50,4 @@ h5 {
 
 .container {
   text-align: center;
-}
-.navbar {
-  color: #f5f6f2 !important;
 }
