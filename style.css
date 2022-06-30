@@ -14,11 +14,11 @@ h1 {
   font-family: var(--font);
   font-weight: 400;
   text-align: center;
-  color: var(--accent-color-dark);
+  color: #6d1919 !important;
 }
 
 h2 {
-  color: var(--accent-color-dark);
+  color: #6d1919 !important;
   font-family: var(--font);
   text-align: center;
 }
