@@ -34,7 +34,7 @@ h5 {
 .hero-text {
   padding: 20px;
 }
-.button {
+button {
   text-align: center;
   font-family: var(--font);
   background-color: #6d1919 !important;
