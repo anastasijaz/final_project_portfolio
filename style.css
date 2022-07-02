@@ -54,3 +54,8 @@ h5 {
 .navbar {
   background-color: #f5f6f2;
 }
+
+img {
+  max-height: 150px;
+  max-width: 100px;
+}
