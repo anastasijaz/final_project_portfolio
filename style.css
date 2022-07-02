@@ -34,7 +34,7 @@ h5 {
 .hero-text {
   padding: 20px;
 }
-.hero-bnt {
+button {
   text-align: center;
   color: #f5f6f2 !important;
   font-family: "Playfair Display", serif;
