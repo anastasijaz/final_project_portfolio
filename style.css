@@ -34,7 +34,10 @@ h5 {
 .hero-text {
   padding: 20px;
 }
-.btn {
+.bnt-container {
+  text-align: center;
+}
+#work-btn {
   text-align: center;
   color: #f5f6f2 !important;
   font-family: "Playfair Display", serif;
@@ -45,8 +48,9 @@ h5 {
   text-decoration: none;
   display: flex;
   justify-content: center;
-  height: 50px;
-  width: 200px;
+  height: 100%;
+  width: 180%;
+  cursor: pointer;
 }
 
 .container {
