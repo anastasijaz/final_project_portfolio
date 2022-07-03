@@ -48,8 +48,8 @@ h5 {
   text-decoration: none;
   display: flex;
   justify-content: center;
-  height: 100%;
-  width: 180%;
+  max-height: 100%;
+  max-width: 50%;
   cursor: pointer;
 }
 
