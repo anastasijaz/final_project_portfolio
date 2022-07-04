@@ -93,7 +93,8 @@ img {
   max-width: 500px;
   max-height: 400px;
   background-color: #986c62 !important;
-  text-align: center;
+  margin: auto;
+  width: 50%;
   border-radius: 2px;
 }
 .heading-work-inquiry,
