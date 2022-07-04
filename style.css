@@ -85,11 +85,11 @@ img {
   margin-bottom: 200px;
 }
 .about-grid {
-  text-align: center;
+  text-align: center !important;
 }
 .work-inquiry {
   padding: 50px;
   max-width: 500px;
   max-height: 400px;
-  background-color: #986c62;
+  background-color: #986c62 !important;
 }
