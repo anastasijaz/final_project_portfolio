@@ -86,7 +86,8 @@ img {
   margin-bottom: 200px;
 }
 .about-grid {
-  text-align: center !important;
+  margin: auto;
+  width: 50%;
 }
 .work-inquiry {
   padding: 50px;
