@@ -46,7 +46,7 @@ p {
   text-align: center;
   margin-top: 200px;
 }
-#work-btn {
+#work-btn#contact_me {
   text-align: center;
   color: #f5f6f2 !important;
   font-family: "Playfair Display", serif;
@@ -82,13 +82,14 @@ img {
 .work-bnt-container {
   margin-top: 200px;
   text-align: center;
-  margin-bottom: 400px;
+  margin-bottom: 200px;
 }
 .about-grid {
   text-align: center;
 }
 .work-inquiry {
   padding: 50px;
-  max-width: 400px;
-  max-height: 300px;
+  max-width: 500px;
+  max-height: 400px;
+  background-color: #986c62;
 }
