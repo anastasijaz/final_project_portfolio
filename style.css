@@ -15,7 +15,7 @@ h1 {
   font-weight: 400;
   text-align: center;
   color: #6d1919 !important;
-  padding: 20px;
+  padding-top: 20px;
 }
 
 h2 {
@@ -37,6 +37,7 @@ p {
   font-family: var(--font);
   text-align: center;
   color: black;
+  padding: 20px;
 }
 .hero-text {
   padding: 20px;
