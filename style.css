@@ -30,6 +30,13 @@ h4 {
 h5 {
   font-family: var(--font);
   text-align: center;
+  color: black;
+  text-decoration: solid;
+}
+p {
+  font-family: var(--font);
+  text-align: center;
+  color: black;
 }
 .hero-text {
   padding: 20px;
@@ -74,7 +81,14 @@ img {
 .work-bnt-container {
   margin-top: 200px;
   text-align: center;
+  margin-bottom: 400px;
 }
 .about-grid {
   text-align: center;
+}
+.work-inquiry {
+  background-color: #986c62 !important;
+  padding: 50px;
+  max-width: 400px;
+  max-height: 300px;
 }
