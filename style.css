@@ -39,6 +39,27 @@ p {
   color: black;
   padding: 20px;
 }
+
+img {
+  max-height: 550px;
+  max-width: 400px;
+}
+
+.navbar {
+  background-color: #f5f6f2;
+}
+/*footer*/
+#instagram-icon,
+#linkedin-icon,
+#email-icon {
+  max-width: 100px;
+  max-height: 100px;
+}
+.icon-container {
+  text-align: center;
+}
+/*index*/
+
 .hero-text {
   padding: 20px;
 }
@@ -67,21 +88,6 @@ p {
   margin: 300px;
 }
 
-.navbar {
-  background-color: #f5f6f2;
-}
-
-img {
-  max-height: 550px;
-  max-width: 400px;
-}
-
-#instagram-icon,
-#linkedin-icon,
-#email-icon {
-  max-width: 100px;
-  max-height: 100px;
-}
 .work-bnt-container {
   margin-top: 50px;
   text-align: center;
@@ -100,9 +106,7 @@ img {
   width: 50%;
   border-radius: 20%;
 }
-.icon-container {
-  text-align: center;
-}
+
 .heading-work-inquiry,
 .text-work-inquiry {
   text-align: left;
