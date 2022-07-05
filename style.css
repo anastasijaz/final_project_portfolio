@@ -69,8 +69,7 @@ img {
   text-align: center;
   margin-top: 200px;
 }
-#work-btn,
-#contact_me {
+#work-btn {
   text-align: center;
   color: #f5f6f2 !important;
   font-family: "Playfair Display", serif;
@@ -106,7 +105,7 @@ img {
   background-color: #986c62 !important;
   margin: auto;
   width: 50%;
-  border-radius: 20%;
+  border-radius: 10%;
 }
 
 .heading-work-inquiry,
@@ -120,4 +119,17 @@ img {
 #get-in-touch-bnt {
   display: flex;
   justify-content: right;
+}
+#contact_me {
+  text-align: center;
+  color: #f5f6f2 !important;
+  font-family: "Playfair Display", serif;
+  background-color: #6d1919 !important;
+  border-color: #6d1919;
+  padding: 10px;
+  border-radius: 5%;
+  text-decoration: none;
+  max-height: 50px;
+  max-width: 15%;
+  cursor: pointer;
 }
