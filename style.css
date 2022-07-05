@@ -56,13 +56,10 @@ p {
   padding: 10px;
   border-radius: 5%;
   text-decoration: none;
-  display: flex;
-  justify-content: center;
   max-height: 50px;
-  max-width: 5%;
+  max-width: 10%;
   cursor: pointer;
 }
-
 .btn-container {
   text-align: center;
   display: flex;
@@ -78,7 +75,9 @@ img {
   max-width: 400px;
 }
 
-.instagram-icon {
+#instagram-icon,
+#linkedin-icon,
+#email-icon {
   max-width: 100px;
   max-height: 100px;
 }
