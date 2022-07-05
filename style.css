@@ -121,3 +121,11 @@ img {
   display: flex;
   justify-content: right;
 }
+#about-column-1 {
+  display: flex;
+  justify-content: left;
+}
+#about-column-2 {
+  display: flex;
+  justify-content: right;
+}
