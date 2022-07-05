@@ -140,8 +140,7 @@ img {
 .trading-text,
 .React-weather-app,
 .React-weather-app {
-  background-color: #986c62 !important;
-  border-radius: 5%;
-  max-height: 400px;
-  max-width: 500px;
+  max-height: 40%;
+  max-width: 50%;
+  padding-top: 200px;
 }
