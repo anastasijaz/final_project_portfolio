@@ -78,8 +78,8 @@ img {
   padding: 10px;
   border-radius: 5%;
   text-decoration: none;
-  max-height: 50px;
-  max-width: 10%;
+  max-height: 100px;
+  max-width: 15%;
   cursor: pointer;
 }
 .btn-container {
@@ -130,6 +130,6 @@ img {
   border-radius: 5%;
   text-decoration: none;
   max-height: 50px;
-  max-width: 15%;
+  max-width: 20%;
   cursor: pointer;
 }
