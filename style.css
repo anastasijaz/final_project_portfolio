@@ -98,21 +98,21 @@ img {
   margin: auto;
   width: 50%;
 }
-.work-inquiry {
-  padding: 50px;
-  max-width: 500px;
-  max-height: 400px;
-  background-color: #986c62 !important;
-  margin: auto;
-  width: 50%;
-  border-radius: 10%;
-}
 
 .heading-work-inquiry,
 .text-work-inquiry {
   text-align: left;
 }
 /*about-me */
+.work-inquiry {
+  padding: 50px;
+  max-width: 500px;
+  max-height: 400px;
+  background-color: #986c62 !important;
+  margin: auto;
+  width: 70%;
+  border-radius: 10%;
+}
 #work-togther {
   text-align: center;
 }
