@@ -64,6 +64,7 @@ p {
   text-align: center;
   display: flex;
   justify-content: center;
+  margin: 300px;
 }
 
 .navbar {
@@ -98,6 +99,10 @@ img {
   margin: auto;
   width: 50%;
   border-radius: 20%;
+}
+.icon-container {
+  display: flex;
+  justify-content: center;
 }
 .heading-work-inquiry,
 .text-work-inquiry {
