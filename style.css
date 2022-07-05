@@ -120,7 +120,7 @@ img {
 }
 #get-in-touch-bnt {
   display: flex;
-  justify-content: center;
+  justify-content: right;
 }
 #contact_me {
   text-align: center;
