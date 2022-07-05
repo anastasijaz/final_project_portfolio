@@ -99,7 +99,9 @@ img {
   width: 50%;
 }
 
-.heading-work-inquiry,
+.heading-work-inquiry {
+  text-align: center;
+}
 .text-work-inquiry {
   text-align: left;
 }
@@ -118,7 +120,7 @@ img {
 }
 #get-in-touch-bnt {
   display: flex;
-  justify-content: right;
+  justify-content: center;
 }
 #contact_me {
   text-align: center;
