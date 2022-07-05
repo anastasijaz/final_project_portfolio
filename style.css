@@ -117,3 +117,7 @@ img {
 #work-togther {
   text-align: center;
 }
+#get-in-touch-bnt {
+  display: flex;
+  justify-content: right;
+}
