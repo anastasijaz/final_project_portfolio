@@ -147,6 +147,13 @@ img {
 /*get_in_touch*/
 
 .button-get-in-touch {
+  display: flex;
+  justify-content: center;
+}
+.link-email {
+  color: #f5f6f2 !important;
+  font-family: "Playfair Display", serif;
+  text-decoration: none;
   text-align: center;
   background-color: #6d1919 !important;
   border-color: #6d1919;
@@ -156,9 +163,4 @@ img {
   max-height: 100px;
   max-width: 20%;
   cursor: pointer;
-}
-.link-email {
-  color: #f5f6f2 !important;
-  font-family: "Playfair Display", serif;
-  text-decoration: none;
 }
