@@ -50,7 +50,7 @@ img {
   background-color: #f5f6f2;
 }
 /*footer*/
-#instagram-icon,
+#github-icon,
 #linkedin-icon,
 #email-icon {
   width: 100px;
@@ -145,10 +145,10 @@ img {
   padding-top: 50px;
 }
 /*get_in_touch*/
-
 .button-get-in-touch {
   display: flex;
   justify-content: center;
+  margin: 50px;
 }
 .link-email {
   color: #f5f6f2 !important;
