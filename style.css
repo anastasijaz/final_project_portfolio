@@ -148,18 +148,17 @@ img {
 
 .button-get-in-touch {
   text-align: center;
-  color: #f5f6f2 !important;
-  font-family: "Playfair Display", serif;
   background-color: #6d1919 !important;
   border-color: #6d1919;
   padding: 10px;
   border-radius: 5%;
   text-decoration: none;
   max-height: 100px;
-  text-decoration: none;
   max-width: 20%;
   cursor: pointer;
 }
 .link-email {
-  color: #f5f6f2;
+  color: #f5f6f2 !important;
+  font-family: "Playfair Display", serif;
+  text-decoration: none;
 }
