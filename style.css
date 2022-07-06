@@ -48,6 +48,7 @@ img {
 footer {
   text-align: center;
   font-family: "Playfair Display", serif;
+  margin-bottom: 30px;
 }
 
 .navbar {
