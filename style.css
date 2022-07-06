@@ -163,8 +163,8 @@ footer {
   margin-bottom: 30px;
 }
 #App-images {
-  border-radius: 20%;
-  border-color: #986c62;
+  border-radius: 10%;
+  border-color: greenyellow;
   padding: 30px;
 }
 /*get_in_touch*/
