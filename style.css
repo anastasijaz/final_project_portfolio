@@ -142,5 +142,20 @@ img {
 .React-weather-app {
   max-height: 40%;
   max-width: 50%;
-  padding-top: 200px;
+  padding-top: 50px;
+}
+/*get_in_touch*/
+
+.button-get-in-touc {
+  text-align: center;
+  color: #f5f6f2 !important;
+  font-family: "Playfair Display", serif;
+  background-color: #6d1919 !important;
+  border-color: #6d1919;
+  padding: 10px;
+  border-radius: 5%;
+  text-decoration: none;
+  max-height: 100px;
+  max-width: 20%;
+  cursor: pointer;
 }
