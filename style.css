@@ -34,6 +34,11 @@ h5 {
   color: black;
   text-decoration: solid;
 }
+h6 {
+  font-family: var(--font);
+  text-align: left;
+  color: #986c62;
+}
 p {
   font-family: var(--font);
   text-align: center;
