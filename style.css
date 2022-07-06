@@ -141,13 +141,17 @@ footer {
   max-width: 20%;
   cursor: pointer;
 }
-/*work*/
+/*my work*/
 .trading-text,
 .React-weather-app,
 .React-weather-app {
   max-height: 40%;
   max-width: 50%;
   padding-top: 50px;
+}
+.MyWork-Header {
+  margin-top: 40px;
+  margin-bottom: 70px;
 }
 /*get_in_touch*/
 .button-get-in-touch {
