@@ -106,6 +106,9 @@ footer {
   justify-content: center;
   margin: 50px;
 }
+.main-page {
+  margin-bottom: 10%;
+}
 /*about-me */
 
 .work-bnt-container {
