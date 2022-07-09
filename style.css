@@ -120,17 +120,23 @@ footer {
 }
 #about-column-1 {
   max-width: 40%;
+  max-height: 60%;
+  display: flex;
+  justify-content: center;
 }
 .work-bnt-container {
   margin-top: 10%;
   text-align: center;
   margin-bottom: 10%;
 }
-#image_me {
-  max-width: 60%;
-  max-height: 100%;
+#about-column-2 {
+  max-width: 40%;
+  max-height: 60%;
   display: flex;
-  justify-content: left;
+  justify-content: center;
+}
+
+#image_me {
   border-radius: 10%;
 }
 
