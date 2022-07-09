@@ -141,6 +141,8 @@ footer {
   margin-bottom: 150px;
   max-width: 60%;
   border-radius: 10%;
+  display: flex;
+  justify-content: center;
 }
 #work-togther {
   text-align: center;
