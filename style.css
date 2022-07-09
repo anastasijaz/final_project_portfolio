@@ -132,7 +132,7 @@ footer {
 }
 #get-in-touch-bnt {
   display: flex;
-  justify-content: right;
+  justify-content: center;
 }
 #contact_me {
   text-align: center;
@@ -144,7 +144,7 @@ footer {
   border-radius: 5%;
   text-decoration: none;
   max-height: 100px;
-  max-width: 20%;
+  max-width: 30%;
   cursor: pointer;
 }
 /*my work*/
