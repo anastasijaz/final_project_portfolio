@@ -96,8 +96,8 @@ footer {
   padding: 10px;
   border-radius: 5%;
   text-decoration: none;
-  max-height: 100px;
-  max-width: 15%;
+  max-height: 10%;
+  max-width: 30%;
   cursor: pointer;
 }
 .btn-container {
