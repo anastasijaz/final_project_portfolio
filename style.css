@@ -71,13 +71,14 @@ footer {
 /*index*/
 
 .icon-container {
-  text-align: center;
+  display: flex;
+  justify-content: center;
   margin-bottom: 5%;
 }
 #icon-grid {
   display: flex;
   justify-content: space-between;
-  max-width: 15%;
+  max-width: 30%;
 }
 .hero-text {
   padding: 20px;
