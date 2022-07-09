@@ -133,6 +133,7 @@ footer {
   max-height: 100%;
   display: flex;
   justify-content: left;
+  border-radius: 10%;
 }
 .work-inquiry {
   padding: 40px;
