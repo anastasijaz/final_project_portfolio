@@ -119,7 +119,7 @@ footer {
 }
 .about-grid {
   margin: auto;
-  width: 70%;
+  max-width: 70%;
 }
 
 .heading-work-inquiry {
@@ -136,11 +136,10 @@ footer {
 }
 .work-inquiry {
   padding: 40px;
-  max-width: 500px;
-  max-height: 400px;
+  max-height: 50px;
   background-color: #986c62 !important;
   margin-bottom: 150px;
-  width: 70%;
+  max-width: 60%;
   border-radius: 10%;
 }
 #work-togther {
