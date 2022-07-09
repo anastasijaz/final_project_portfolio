@@ -111,14 +111,18 @@ footer {
 }
 
 /*about-me */
-
+.about-page {
+  margin-top: 10%;
+  margin-bottom: 15%;
+}
 .work-bnt-container {
   margin-top: 50px;
   text-align: center;
   margin-bottom: 50px;
 }
 .about-grid {
-  margin: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
   max-width: 70%;
 }
 
