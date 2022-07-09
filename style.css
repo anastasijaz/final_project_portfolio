@@ -73,8 +73,12 @@ footer {
 .icon-container {
   text-align: center;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   margin-bottom: 10%;
+}
+#icon-grid {
+  display: flex;
+  justify-content: space-between;
 }
 .hero-text {
   padding: 20px;
