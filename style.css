@@ -112,25 +112,19 @@ footer {
 
 /*about-me */
 .about-page {
-  margin-top: 10%;
-  margin-bottom: 15%;
-}
-.about-grid {
   margin-top: 5%;
   margin-bottom: 5%;
+}
+.about-grid {
   max-width: 70%;
+}
+#about-column-1 {
+  max-width: 40%;
 }
 .work-bnt-container {
   margin-top: 10%;
   text-align: center;
-  margin-bottom: 10%px;
-}
-
-.heading-work-inquiry {
-  text-align: center;
-}
-.text-work-inquiry {
-  text-align: left;
+  margin-bottom: 10%;
 }
 #image_me {
   max-width: 60%;
@@ -138,6 +132,13 @@ footer {
   display: flex;
   justify-content: left;
   border-radius: 10%;
+}
+
+.heading-work-inquiry {
+  text-align: center;
+}
+.text-work-inquiry {
+  text-align: left;
 }
 .work-inquiry {
   padding: 40px;
