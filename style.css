@@ -74,7 +74,7 @@ footer {
   text-align: center;
   display: flex;
   justify-content: center;
-  margin-bottom: 10%;
+  margin-bottom: 5%;
 }
 #icon-grid {
   display: flex;
@@ -107,8 +107,9 @@ footer {
   margin: 50px;
 }
 .main-page {
-  margin-bottom: 10%;
+  margin-bottom: 5%;
 }
+
 /*about-me */
 
 .work-bnt-container {
