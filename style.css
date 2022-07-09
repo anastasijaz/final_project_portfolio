@@ -130,7 +130,9 @@ footer {
 }
 #image_me {
   max-width: 60%;
-  max-height: 900%;
+  max-height: 100%;
+  display: flex;
+  justify-content: left;
 }
 .work-inquiry {
   padding: 40px;
