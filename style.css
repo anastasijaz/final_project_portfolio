@@ -116,6 +116,7 @@ footer {
   display: flex;
   justify-content: center;
   max-height: 40%;
+  margin: 5%;
 }
 #about-row-1 {
   display: flex;
