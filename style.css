@@ -204,6 +204,8 @@ footer {
   border-radius: 10%;
 }
 #trading-image {
+  display: flex;
+  justify-content: space-evenly;
 }
 /*get_in_touch*/
 .button-get-in-touch {
