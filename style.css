@@ -139,8 +139,8 @@ footer {
 .work-inquiry {
   padding: 40px;
   background-color: #986c62 !important;
-  margin-top: 5%;
-  margin-bottom: 5%;
+  margin-top: 2%;
+  margin-bottom: 2%;
   border-radius: 10%;
   display: flex;
   justify-content: center;
@@ -168,7 +168,7 @@ footer {
   padding: 10px;
   border-radius: 5%;
   text-decoration: none;
-  max-height: 30%;
+  max-height: 50%;
   max-width: 60%;
   cursor: pointer;
 }
