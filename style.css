@@ -115,6 +115,10 @@ footer {
 .about-grid {
   max-width: 70%;
 }
+#about-row-1 {
+  display: flex;
+  justify-content: center;
+}
 #about-column-1 {
   max-width: 40%;
   max-height: 60%;
