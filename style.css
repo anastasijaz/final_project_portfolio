@@ -119,7 +119,7 @@ footer {
 #about-row-1 {
   display: flex;
   justify-content: space-evenly;
-  max-height: 50%;
+  max-height: 30%;
 }
 #about-row-1 {
   margin-left: 5%;
