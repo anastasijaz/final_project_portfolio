@@ -118,7 +118,10 @@ footer {
 }
 #about-row-1 {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
+}
+#about-row-1 {
+  margin-left: 20%;
 }
 .work-bnt-container {
   margin-top: 10%;
@@ -128,8 +131,6 @@ footer {
 
 #image_me {
   border-radius: 10%;
-  max-width: 40%;
-  max-height: 65%;
 }
 
 .heading-work-inquiry {
