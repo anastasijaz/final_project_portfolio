@@ -195,6 +195,8 @@ footer {
 #MyWork-row {
   margin-bottom: 5%;
   margin-top: 5%;
+  display: flex;
+  justify-content: center;
 }
 #App-images {
   border-radius: 10%;
