@@ -131,6 +131,8 @@ footer {
 }
 #image_me {
   border-radius: 10%;
+  max-width: 50%;
+  max-height: 70%;
 }
 .about-row-2 {
   display: flex;
