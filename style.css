@@ -177,12 +177,6 @@ footer {
 
 /*my work*/
 
-.trading-text,
-.React-weather-app,
-.Weather-app {
-  max-height: 40%;
-  max-width: 50%;
-}
 .trading-text {
   margin-left: 5%;
 }
@@ -195,6 +189,10 @@ footer {
   margin-top: 5%;
   display: flex;
   justify-content: space-evenly;
+}
+#MyWork-column {
+  max-width: 30%;
+  max-height: 20%;
 }
 #App-images {
   max-width: 30%;
