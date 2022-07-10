@@ -182,7 +182,9 @@ footer {
 .Weather-app {
   max-height: 40%;
   max-width: 50%;
-  padding-top: 50px;
+}
+.trading-text {
+  margin-left: 5%;
 }
 .MyWork-Header {
   margin-top: 40px;
@@ -199,6 +201,7 @@ footer {
   max-height: 50%;
   border-radius: 10%;
   background-color: #986c62 !important;
+  padding: 10%;
 }
 /*get_in_touch*/
 .button-get-in-touch {
