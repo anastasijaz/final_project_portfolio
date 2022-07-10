@@ -133,9 +133,7 @@ footer {
 #image_me {
   border-radius: 10%;
 }
-.about-row-2 {
-  max-width: 30%;
-}
+
 .work-inquiry {
   padding: 40px;
   background-color: #986c62 !important;
@@ -144,6 +142,7 @@ footer {
   border-radius: 10%;
   display: flex;
   justify-content: center;
+  max-width: 30%;
 }
 .heading-work-inquiry {
   text-align: center;
