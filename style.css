@@ -177,6 +177,7 @@ footer {
 
 /*my work*/
 .mywork-container {
+  max-width: 90%;
   display: flex;
   justify-content: center;
 }
