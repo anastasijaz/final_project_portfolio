@@ -204,6 +204,7 @@ footer {
 #trading-image {
   display: flex;
   justify-content: center;
+  padding: 5%;
 }
 /*get_in_touch*/
 .button-get-in-touch {
