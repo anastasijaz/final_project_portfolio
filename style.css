@@ -57,6 +57,7 @@ footer {
   margin-bottom: 20px;
 }
 
+/*index*/
 .navbar {
   background-color: #f5f6f2;
 }
@@ -64,11 +65,9 @@ footer {
 #github-icon,
 #linkedin-icon,
 #email-icon {
-  width: 100px;
-  height: 100px;
+  width: 50px;
+  height: 50px;
 }
-
-/*index*/
 .main-page {
   margin-bottom: 5%;
 }
