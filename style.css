@@ -198,14 +198,14 @@ footer {
 }
 #App-images {
   max-width: 40%;
-  max-height: 20%;
+  max-height: 30%;
   background-color: #986c62 !important;
-  padding: 10%;
+  padding: 5%;
   border-radius: 10%;
 }
 #trading-image {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
 }
 /*get_in_touch*/
 .button-get-in-touch {
