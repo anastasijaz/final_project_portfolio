@@ -60,7 +60,7 @@ footer {
 .navbar {
   background-color: #f5f6f2;
 }
-/*footer*/
+
 #github-icon,
 #linkedin-icon,
 #email-icon {
@@ -69,7 +69,9 @@ footer {
 }
 
 /*index*/
-
+.main-page {
+  margin-bottom: 5%;
+}
 .icon-container {
   display: flex;
   justify-content: center;
@@ -78,7 +80,7 @@ footer {
 #icon-grid {
   display: flex;
   justify-content: space-between;
-  max-width: 30%;
+  max-width: 50%;
 }
 .hero-text {
   padding: 20px;
@@ -105,9 +107,6 @@ footer {
   display: flex;
   justify-content: center;
   margin: 50px;
-}
-.main-page {
-  margin-bottom: 5%;
 }
 
 /*about-me */
