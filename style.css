@@ -140,7 +140,8 @@ footer {
   margin-top: 5%;
   margin-bottom: 5%;
   border-radius: 10%;
-  text-align: center;
+  display: flex;
+  justify-content: center;
   max-width: 30%;
 }
 .heading-work-inquiry {
