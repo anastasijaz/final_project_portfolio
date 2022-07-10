@@ -126,12 +126,6 @@ footer {
   text-align: center;
   margin-bottom: 10%;
 }
-#about-column-2 {
-  max-width: 60%;
-  max-height: 80%;
-  display: flex;
-  justify-content: center;
-}
 
 #image_me {
   border-radius: 10%;
