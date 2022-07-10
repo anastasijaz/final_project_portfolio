@@ -144,7 +144,7 @@ footer {
   border-radius: 10%;
   display: flex;
   justify-content: center;
-  max-width: 30%;
+  max-width: 35%;
 }
 .heading-work-inquiry {
   text-align: center;
@@ -168,8 +168,8 @@ footer {
   padding: 10px;
   border-radius: 5%;
   text-decoration: none;
-  max-height: 50px;
-  max-width: 100px;
+  max-height: 10%;
+  max-width: 20%;
   cursor: pointer;
 }
 
