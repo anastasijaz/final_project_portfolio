@@ -142,6 +142,7 @@ footer {
   border-radius: 10%;
   display: flex;
   justify-content: center;
+  max-width: 20%;
 }
 .heading-work-inquiry {
   text-align: center;
