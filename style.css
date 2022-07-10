@@ -109,7 +109,6 @@ footer {
 
 /*about-me */
 .about-page {
-  margin-top: 5%;
   margin-bottom: 5%;
 }
 .about-grid {
@@ -133,7 +132,10 @@ footer {
 #image_me {
   border-radius: 10%;
 }
-
+.about-row-2 {
+  display: flex;
+  justify-content: space-evenly;
+}
 .work-inquiry {
   padding: 40px;
   background-color: #986c62 !important;
