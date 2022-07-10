@@ -74,11 +74,10 @@ footer {
 .icon-container {
   display: flex;
   justify-content: center;
-  margin-bottom: 5%;
 }
 #icon-grid {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   max-width: 50%;
 }
 .hero-text {
