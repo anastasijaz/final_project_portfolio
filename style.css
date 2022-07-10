@@ -114,14 +114,10 @@ footer {
 }
 .about-grid {
   max-width: 70%;
-}
-#about-row-1 {
   display: flex;
   justify-content: center;
 }
-#about-column-1 {
-  max-width: 40%;
-  max-height: 60%;
+#about-row-1 {
   display: flex;
   justify-content: center;
 }
@@ -139,8 +135,8 @@ footer {
 
 #image_me {
   border-radius: 10%;
-  max-width: 20%;
-  max-height: 40%;
+  max-width: 40%;
+  max-height: 65%;
 }
 
 .heading-work-inquiry {
