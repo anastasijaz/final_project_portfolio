@@ -113,7 +113,6 @@ footer {
   margin-bottom: 5%;
 }
 .about-grid {
-  max-width: 70%;
   display: flex;
   justify-content: center;
 }
