@@ -197,6 +197,7 @@ footer {
 #App-images {
   display: flex;
   justify-content: right;
+  margin: 30px;
 }
 #trading-image {
   display: flex;
