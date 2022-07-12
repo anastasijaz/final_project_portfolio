@@ -210,6 +210,15 @@ footer {
 }
 #WeatherAppReact {
   display: flex;
+  justify-content: left;
+  border-radius: 5%;
+  padding: 5%;
+  background-color: #986c62 !important;
+  max-width: 90%;
+  max-height: 60%;
+}
+#WeatherAppReact {
+  display: flex;
   border-radius: 5%;
   justify-content: left;
   padding: 5%;
