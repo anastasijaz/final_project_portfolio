@@ -198,7 +198,8 @@ footer {
   display: flex;
   justify-content: right;
 }
-#trading-image {
+#trading-image,
+#WeatherApp-image {
   display: flex;
   border-radius: 5%;
   justify-content: right;
@@ -207,6 +208,16 @@ footer {
   max-width: 90%;
   max-height: 60%;
 }
+#WeatherAppReact {
+  display: flex;
+  border-radius: 5%;
+  justify-content: left;
+  padding: 5%;
+  background-color: #986c62 !important;
+  max-width: 90%;
+  max-height: 60%;
+}
+
 /*get_in_touch*/
 .button-get-in-touch {
   display: flex;
