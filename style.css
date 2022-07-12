@@ -196,7 +196,7 @@ footer {
 }
 #App-images {
   display: flex;
-  justify-content: center;
+  justify-content: right;
 }
 #trading-image {
   display: flex;
@@ -206,7 +206,6 @@ footer {
   background-color: #986c62 !important;
   max-width: 90%;
   max-height: 60%;
-  margin-right: 30px;
 }
 /*get_in_touch*/
 .button-get-in-touch {
