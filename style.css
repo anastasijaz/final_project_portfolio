@@ -194,9 +194,14 @@ footer {
   max-width: 30%;
   max-height: 20%;
 }
-#App-images {
+#App-images1,
+#App-images3 {
   display: flex;
   justify-content: right;
+}
+#App-images2 {
+  display: flex;
+  justify-content: left;
 }
 #trading-image,
 #WeatherApp-image {
