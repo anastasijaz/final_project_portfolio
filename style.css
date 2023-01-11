@@ -62,9 +62,9 @@ footer {
   background-color: #f5f6f2;
 }
 
-.linkedin-button {
-  width: 200px;
-  height: 200px;
+#email-icon {
+  height: 50px;
+  width: 50px;
 }
 .main-page {
   margin-bottom: 5%;
