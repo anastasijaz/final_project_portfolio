@@ -222,15 +222,6 @@ footer {
   max-width: 90%;
   max-height: 60%;
 }
-#WeatherAppReact {
-  display: flex;
-  border-radius: 5%;
-  justify-content: left;
-  padding: 5%;
-  background-color: #986c62 !important;
-  max-width: 90%;
-  max-height: 60%;
-}
 
 /*get_in_touch*/
 .button-get-in-touch {
